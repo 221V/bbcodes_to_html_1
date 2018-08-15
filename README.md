@@ -1,4 +1,8 @@
 # bbcodes_to_html_1
+
+#deprecated
+use https://github.com/221V/bbcodes_to_html_2 instead
+
 bbcodes to html with leex (have some bugs)
 for using with https://github.com/221V/SCEditor-2.1.2-fork and google prettify
 
